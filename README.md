@@ -3,5 +3,4 @@
 Link For The Tableau Dashboard:
 https://public.tableau.com/app/profile/nadav.shteinberg/viz/VideoGamesAnalysis_16354165622000/Dashboard1
 
-![](ללא שם.png)
-![alt text](ללא שם.png)
+https://github.com/Nadavshh/Video-Games-Sales/blob/main/%D7%9C%D7%9C%D7%90%20%D7%A9%D7%9D.png
